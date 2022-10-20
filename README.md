@@ -22,3 +22,6 @@ is an open world horror game
 
 Каждая локация отражает свою фобию. каждую фобию можно пройти двумя способами - насилием и путём преодоления страха.
 От того, как проходится локация, зависит концовка.
+
+
+++ https://www.researchgate.net/publication/359218699_Research_on_Alleviating_Children%27s_Nighttime_Fear_Using_a_Digital_Game
