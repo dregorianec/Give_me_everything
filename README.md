@@ -25,3 +25,4 @@ is an open world horror game
 
 
 ++ https://www.researchgate.net/publication/359218699_Research_on_Alleviating_Children%27s_Nighttime_Fear_Using_a_Digital_Game
+++ https://www.playground.ru/misc/news/psihologiya_horror_igr-272557
